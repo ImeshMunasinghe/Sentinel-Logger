@@ -1,0 +1,6 @@
+name,nfc_tag_id,latitude,longitude,description
+North Gate,tag_gate_north,37.7749,-122.4194,Main entry at the north gate.
+South Gate,tag_gate_south,37.7750,-122.4180,Back entry at the south gate.
+Parking Lot,tag_parking,37.7741,-122.4201,Officer patrol checkpoint in the parking garage.
+Main Lobby,tag_lobby,37.7752,-122.4190,Reception desk scanning station.
+Server Room,tag_server_room,37.7755,-122.4195,Secure IT equipment vault.
