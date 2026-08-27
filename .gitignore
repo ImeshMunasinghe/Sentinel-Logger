@@ -1,0 +1,29 @@
+# Environments
+.env
+.env.local
+.env.*.local
+
+# Virtual Environment
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Next.js build and dependencies
+node_modules/
+.next/
+out/
+build/
+
+# Local databases
+*.db
+*.db-journal
+
+# Secrets / sensitive seed data
+backend/app/Users.csv
+
+# Logs
+*.log
+frontend/*_log*.txt
+
