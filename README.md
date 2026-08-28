@@ -4,6 +4,39 @@ A robust, full-stack, corporate-security patrol logging and analytics system. It
 
 ---
 
+## 🛠️ Tech Stack
+
+### Backend
+| Technology | Purpose |
+|---|---|
+| **Python 3.12+** | Core backend language |
+| **FastAPI** | REST API framework |
+| **SQLAlchemy** | ORM & database abstraction |
+| **SQLite** | Lightweight embedded database |
+| **Pydantic** | Request/response data validation |
+| **BCrypt** | Password hashing |
+| **PyJWT** | JWT-based authentication |
+| **Uvicorn** | ASGI server |
+| **ReportLab** | PDF report generation |
+
+### Frontend
+| Technology | Purpose |
+|---|---|
+| **Next.js 14** | React-based web framework (App Router) |
+| **TypeScript** | Typed JavaScript |
+| **Tailwind CSS** | Utility-first styling |
+| **Axios** | HTTP client for API communication |
+| **React Leaflet** | Interactive patrol route mapping |
+| **Recharts** | Analytics charts & visualizations |
+
+### Simulator
+| Technology | Purpose |
+|---|---|
+| **Python 3.12+** | CLI patrol simulation scripts |
+| **Requests** | HTTP calls to backend API |
+
+---
+
 ## 📅 Project Structure
 
 ```
